@@ -1,0 +1,19 @@
+{
+    "name": "chanhui/php-board",
+    "description": "Simple PHP bulletin board",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Chan Hui",
+        "email": "heochanhui6@gmail.com"
+      }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "App\\": "app/",
+        "Core\\": "core/"
+      }
+    }
+  }
+  
